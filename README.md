@@ -22,3 +22,19 @@
 
 **Inicialización de Variables:**
 
+**Punto y coma en PHP:**
+
+**Palabras Reservadas del Sistema:**
+
+**Que son los operadores:**
+
+**Items en las colecciones de datos PHP:**
+
+**Echo:**
+
+**Var_dump:**
+
+**printt_r:**
+
+
+
