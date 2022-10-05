@@ -2,9 +2,9 @@
 
 **Camel Case:** La notación Camel Case combina las palabras directamente, sin usar ningún símbolo, estableciendo que la primera letra de cada palabra esté en mayúscula a excepción de la primera palabra, estando el resto de letras en minúsculas.
 
-**Estructura básica de los lenguajes de programación:** 
+**Estructura básica de los lenguajes de programacion:**
 
-**Seudo-Lenguaje de Programación:**
+**Seudo-Lenguaje de Programacion:**
 
 **Lenguaje de Programación:**
 
@@ -35,6 +35,3 @@
 **Var_dump:**
 
 **printt_r:**
-
-
-
