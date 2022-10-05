@@ -17,9 +17,9 @@ echo ($edad);
 echo ("<br>");
 echo ($altura);
 echo ("<br>");
-echo ($soyAlumno);
-echo ($pasaTiempo);
-echo ($direccion);
+var_dump($soyAlumno);
+var_dump($pasaTiempo);
+var_dump($direccion);
 echo "<br>Soy el Servidor " .$_SERVER["HTTP_HOST"]
 
 
