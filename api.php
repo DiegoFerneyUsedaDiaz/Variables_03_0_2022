@@ -11,12 +11,12 @@ $direccion = new stdClass();
 $direccion ->principal = "Calle 105";
 $direccion ->secundaria = "Finca el Porvenir";
 
-echo ($nombreCompleto);
-echo ("<br>");
-echo ($edad);
-echo ("<br>");
-echo ($altura);
-echo ("<br>");
+echo($nombreCompleto);
+echo("<br>");
+echo($edad);
+echo("<br>");
+echo($altura);
+echo("<br>");
 var_dump($soyAlumno);
 var_dump($pasaTiempo);
 var_dump($direccion);
