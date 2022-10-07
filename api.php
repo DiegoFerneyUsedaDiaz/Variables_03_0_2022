@@ -11,7 +11,7 @@ $direccion = new stdClass();
 $direccion ->principal = "Calle 105";
 $direccion ->secundaria = "Finca el Porvenir";
 
-echo($nombreCompleto);
+print_r($nombreCompleto);
 echo("<br>");
 echo($edad);
 echo("<br>");
